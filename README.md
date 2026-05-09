@@ -17,6 +17,4 @@ pip install -r requirements.txt
 python train_model.py
 ```
 
-Final delivery:
 
-Send the GitHub repository URL to the WeChat group after the Actions workflow and Release page work correctly.
